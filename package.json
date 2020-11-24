@@ -1,0 +1,20 @@
+{
+  "name": "best-buy-product-tracker",
+  "version": "1.0.0",
+  "description": "best-buy-product-tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "Shawn McAllister",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.4.14"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
