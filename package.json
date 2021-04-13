@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "test"
   },
-  "author": "Shawn McAllister",
+  "author": "Andrei Cabrera",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
